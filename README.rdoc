@@ -1,5 +1,10 @@
 == README
 
+Some dependencies...
+https://gist.github.com/vasilijus/507bab8bc5d58636e3761d3b1ba883d6
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
